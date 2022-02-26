@@ -1,0 +1,48 @@
+C:\Users\marce\source\repos\EPAFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.exe
+C:\Users\marce\source\repos\EPAFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.deps.json
+C:\Users\marce\source\repos\EPAFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.runtimeconfig.json
+C:\Users\marce\source\repos\EPAFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.runtimeconfig.dev.json
+C:\Users\marce\source\repos\EPAFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.dll
+C:\Users\marce\source\repos\EPAFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.pdb
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.Form1.resources
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.AssemblyInfo.cs
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.dll
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.pdb
+C:\Users\marce\source\repos\EPAFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.genruntimeconfig.cache
+C:\Users\marce\source\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.exe
+C:\Users\marce\source\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.deps.json
+C:\Users\marce\source\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.runtimeconfig.json
+C:\Users\marce\source\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.runtimeconfig.dev.json
+C:\Users\marce\source\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.dll
+C:\Users\marce\source\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.pdb
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.Form1.resources
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.AssemblyInfo.cs
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.dll
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.pdb
+C:\Users\marce\source\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.genruntimeconfig.cache
+D:\Projetos VS 2019\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.exe
+D:\Projetos VS 2019\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.deps.json
+D:\Projetos VS 2019\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.runtimeconfig.json
+D:\Projetos VS 2019\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.runtimeconfig.dev.json
+D:\Projetos VS 2019\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.dll
+D:\Projetos VS 2019\repos\APFaculdade\bin\Debug\netcoreapp3.1\EPAFaculdade.pdb
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.csproj.AssemblyReference.cache
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.Form1.resources
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.csproj.GenerateResource.cache
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.AssemblyInfoInputs.cache
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.AssemblyInfo.cs
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.csproj.CoreCompileInputs.cache
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.dll
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.pdb
+D:\Projetos VS 2019\repos\APFaculdade\obj\Debug\netcoreapp3.1\EPAFaculdade.genruntimeconfig.cache
